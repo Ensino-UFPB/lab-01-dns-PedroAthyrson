@@ -1,0 +1,4 @@
+zone "pedro_athyrson.com" {
+    type master;
+    file "/etc/bind/db.pedro_athyrson.com";
+};
